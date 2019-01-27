@@ -33,7 +33,7 @@ try:
       print('Failed to get sensor data :(')
     if readed:
       sleep(300)
-    else  
+    else : 
       sleep(2)
 
 except KeyboardInterrupt:
